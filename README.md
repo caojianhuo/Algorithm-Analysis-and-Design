@@ -4,18 +4,18 @@
 
 + **所属大学**：北京航空航天大学计算机学院开设的本科生课程（也有Mooc）
 
-+ **先修要求：**数据结构、离散数学
++ **先修要求**：数据结构、离散数学
 
-+ **难度：**⭐⭐⭐⭐
++ **难度**：⭐⭐⭐⭐
 
-+ **参考教材：**
++ **参考教材**：
   + Introduction to Algorithms (3rd ed.). by Cormen, Leiserson, Rivest and Stein (CLRS)
   + Algorithms.  by Dasgupta, Papadimitriou, and Vazirani (DPV)
   + Algorithm Design. by Kleinberg and Tardos (KT)
   + The Art of Computer Programming. by Donald E. Knuth
   + Concrete Mathematics (2nd ed.). by Graham, Knuth, Patashnik (GKP)
   + Programming Pearls (2nd ed.). by Jon Bentley
-+ **成绩占比：**
++ **成绩占比**：
   + (30%) Four Assignments
     + Each requires designing algorithms and analyzing correctness/run time.
     + Each will take 14 days.
